@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shared Prefers</string>
+    <string name="enter_name_to_save">Enter name to save</string>
+    <string name="enter_number_to_save">Enter number to save</string>
+    <string name="select_color_to_save">Select color to save in preferences</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="save_prefs">Save Preferences</string>
+    <string name="preferences_saved">Preferences saved</string>
+    <string name="clear_prefs">Clear Preferences</string>
+    <string name="preferences_cleared">Preferences cleared</string>
+</resources>
