@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<img src="./resources/video.gif" width="50%" height="50%"/>
+<img src="./resources/video.gif" width="30%" height="40%"/>
 
 </body>
 </html>
